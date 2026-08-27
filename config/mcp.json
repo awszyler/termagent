@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "filesystem": {
+      "command": "uvx",
+      "args": ["mcp-server-filesystem"],
+      "env": {},
+      "disabled": true
+    },
+    "git": {
+      "command": "uvx", 
+      "args": ["mcp-server-git"],
+      "env": {},
+      "disabled": true
+    }
+  }
+}

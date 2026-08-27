@@ -1,0 +1,22 @@
+# 核心依赖
+aiohttp>=3.8.0
+asyncio-timeout>=4.0.0
+pydantic>=2.0.0
+
+# CLI相关
+click>=8.0.0
+rich>=13.0.0
+prompt-toolkit>=3.0.0
+
+# MCP支持
+mcp>=1.0.0
+
+# 测试依赖
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.10.0
+
+# 开发工具
+black>=23.0.0
+flake8>=6.0.0
+mypy>=1.0.0
